@@ -1,0 +1,14 @@
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.2/DotNetCoreSampleApi.deps.json
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.2/DotNetCoreSampleApi.runtimeconfig.json
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.2/DotNetCoreSampleApi.runtimeconfig.dev.json
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.2/DotNetCoreSampleApi.dll
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.2/DotNetCoreSampleApi.pdb
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.csprojAssemblyReference.cache
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.csproj.CoreCompileInputs.cache
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.RazorAssemblyInfo.cache
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.RazorAssemblyInfo.cs
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.AssemblyInfoInputs.cache
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.AssemblyInfo.cs
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.RazorTargetAssemblyInfo.cache
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.dll
+/home/d/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.2/DotNetCoreSampleApi.pdb

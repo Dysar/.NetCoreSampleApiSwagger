@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/d/uniApps/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj": {}
+  },
+  "projects": {
+    "/home/d/uniApps/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/d/uniApps/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj",
+        "projectName": "DotNetCoreSampleApi",
+        "projectPath": "/home/d/uniApps/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj",
+        "packagesPath": "/home/d/.nuget/packages/",
+        "outputPath": "/home/d/uniApps/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/d/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
